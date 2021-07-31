@@ -1,4 +1,37 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:black;
+    font-family: Arial;
+}
 
+h1{color:gray;
+    font-family: verdana;}
 
+.maindiv{
+    background-color: white;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
+
+mark {
+    background-color: yellow;
+}
+
+.center{
+    /* text-align: justify;
+    text-align: center; */
+    padding-left: 100px;
+}
+
+.margin{
+    margin-left: 50px;
+}
+
+.margin1{
+    margin-left: 15px;
+}
+
+.margin2{
+    margin-left: 20px;
+}
